@@ -2,7 +2,7 @@
 
 Open-source is hard to do sustainably without funding, so consider sponsoring or hiring following people who make this organisation possible:
 
-- [Antoni Silvestrovic](https://github.com/bring-shrubbery)
+- [Antoni Silvestrovic (bring-shrubbery)](https://github.com/bring-shrubbery)
 
 Otherwise, feel free to star a project below! 👇👇👇
 
